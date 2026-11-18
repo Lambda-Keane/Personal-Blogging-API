@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/blog/article/ArticleRepository.java" value="0deaaf7d-b550-49e6-be7f-c81914bab7d4" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/blog/user/UserRepository.java" value="0deaaf7d-b550-49e6-be7f-c81914bab7d4" />
+  </component>
+</project>
