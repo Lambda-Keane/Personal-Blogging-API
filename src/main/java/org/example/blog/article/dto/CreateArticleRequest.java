@@ -1,7 +1,6 @@
-package org.example.blog.article;
+package org.example.blog.article.dto;
 
-public record CreateArticleRequest(long article_id,
-                                   long publisher_id,
+public record CreateArticleRequest(long publisher_id,
                                    String title,
                                    String content) {
 }
